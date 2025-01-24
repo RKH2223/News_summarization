@@ -90,6 +90,8 @@ The dataset was preprocessed to remove noise and irrelevant information, ensurin
 ## Contributors
 - **Ravi Kanani**  
   [LinkedIn](https://www.linkedin.com/in/ravi-kanani/) | [Email](mailto:ravikanani2003@gmail.com)  
+  **Om Joshi**
+  [LinkedIn](https://www.linkedin.com/in/om-joshi-0b9904284/) | [Email](mailto:om2003joshi@gmail.com)
 
 ---
 
